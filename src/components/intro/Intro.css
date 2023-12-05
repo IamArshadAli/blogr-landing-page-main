@@ -1,0 +1,9 @@
+.intro-pattern {
+    background-image: url(../../assets/images/bg-pattern-intro-mobile.svg);
+}
+
+@media screen(md) {
+    .intro-pattern {
+        background-image: url(../../assets/images/bg-pattern-intro-desktop.svg);
+    }
+}

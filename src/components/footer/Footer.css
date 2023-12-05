@@ -1,0 +1,11 @@
+.list-item {
+    @apply mb-6 font-medium xl:mb-8 xl:font-normal
+}
+
+.sub-list {
+    @apply flex flex-col gap-2 text-GrayishBlue
+}
+
+a {
+    @apply hover:underline    
+}

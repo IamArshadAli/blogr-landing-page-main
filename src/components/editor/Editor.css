@@ -1,0 +1,9 @@
+.editor-illustration {
+    background-image: url(../../assets/images/illustration-editor-mobile.svg);
+}
+
+@media screen(lg) {
+    .editor-illustration {
+        background-image: url(../../assets/images/illustration-editor-desktop.svg);
+    }
+}

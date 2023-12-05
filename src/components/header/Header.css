@@ -1,0 +1,3 @@
+.dropdown-links {
+    @apply mt-4 rounded-sm bg-GrayishBlue bg-opacity-50 py-6 lg:absolute lg:w-[12rem] lg:rounded-md lg:bg-White lg:px-6 lg:shadow-2xl
+}

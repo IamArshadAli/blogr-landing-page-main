@@ -1,0 +1,13 @@
+.laptop-illustration {
+    background-image: url(../../assets/images/illustration-laptop-mobile.svg);
+}
+
+.tool-heading {
+    @apply text-2xl font-semibold text-VeryDarkBlue md:text-3xl xl:text-[1.7rem]
+}
+
+@media screen(lg) {
+    .laptop-illustration {
+        background-image: url(../../assets/images/illustration-laptop-desktop.svg);
+    }
+}
