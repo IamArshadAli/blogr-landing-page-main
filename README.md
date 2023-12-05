@@ -7,7 +7,7 @@
 
   <h1 align="center">Blogr Landing Page</h1>
   <p align="center">
-    <a href="https://www.frontendmentor.io/solutions/tip-calculator-app-using-reactjs-and-tailwindcss-with-counter-animation-4tvcj2v2E8"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/solutions/responsive-blogr-landing-page-using-reactjs-and-tailwindcss-esdNELSQXg"><strong>Frontend Mentor Challenge</strong></a>
     <br />
   </p>
 </div>
@@ -24,7 +24,7 @@
   </a> &nbsp;
   <!-- Difficulty -->
     <a href="https://www.frontendmentor.io/challenges?difficulty=2"  >
-    <img src="https://img.shields.io/badge/Difficulty-Newbie-00AAFF?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Newbie">
+    <img src="https://img.shields.io/badge/Difficulty-Newbie-AAD742?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Junior">
   </a>
 </div>
 
@@ -32,10 +32,10 @@
 <!-- Live Site -->
 <div align="center">
 
-  <a href="https://tip-calculator-app-arshad-ali.vercel.app/">
+  <a href="https://blogr-landing-page-arshad-ali.netlify.app/">
     <img src="https://img.shields.io/badge/Live_Demo->-9757f1?style=for-the-badge" alt="Live Demo">
   </a> &nbsp;
-  <a href="https://github.com/IamArshadAli/tip-calculator-app">
+  <a href="https://github.com/IamArshadAli/blogr-landing-page-main">
     <img src="https://img.shields.io/badge/Solution->-9757f1?style=for-the-badge" alt="Solution">
   </a>
 
@@ -44,12 +44,12 @@
 #
 <!-- Screenshot -->
 <div align="center">
-  <a href="https://tip-calculator-app-arshad-ali.vercel.app/" title="Click to see Live Site">
+  <a href="https://blogr-landing-page-arshad-ali.netlify.app/" title="Click to see Live Site">
     <img src="./src/assets/design/desktop-preview.jpg" />
   </a>
 </div>
 
-This is a solution to the [Blogr Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Blogr Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <br />
 
@@ -59,11 +59,11 @@ This is a solution to the [Blogr Landing Page challenge on Frontend Mentor](http
 
  ||
   | :-----: |
-  |  <b>Overall Score: 🖥️ 98% \| 📱 94%</b> |
+  |  <b>Overall Score: 🖥️ 88% \| 📱 86%</b> |
   | |
   | <img src='./src/assets/images/pagespeed-insights-score.svg' alt='Scoreboard'> |
   | |
-  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-tip-calculator-app-arshad-ali-vercel-app/0x8uqnp23c?form_factor=desktop) to get live score |
+  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-blogr-landing-page-arshad-ali-netlify-app/zf9dm3583q?form_factor=desktop) to get live score |
   ||
 
 </div>
